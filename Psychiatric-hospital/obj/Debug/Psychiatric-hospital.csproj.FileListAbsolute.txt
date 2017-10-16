@@ -1,0 +1,6 @@
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\bin\Debug\Psychiatric-hospital.exe.config
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\bin\Debug\Psychiatric-hospital.exe
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\bin\Debug\Psychiatric-hospital.pdb
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\obj\Debug\Psychiatric-hospital.csprojResolveAssemblyReference.cache
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\obj\Debug\Psychiatric-hospital.exe
+I:\Учёба\Курс 4\Тестирование ПО\Psychiatric-hospital\Psychiatric-hospital\obj\Debug\Psychiatric-hospital.pdb
